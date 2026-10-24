@@ -1,0 +1,19 @@
+{
+  "version": "0.1.6",
+  "notes": "Drawings open fitted to the window, and an easier-to-read shortcuts list.\n\n- **Drawings open fitted.** A new or opened drawing now fills the window, even after you zoomed into the previous one. Before, it kept the last drawing's zoom and could appear small in a corner.\n- **Keyboard shortcuts at a glance.** *Help › Keyboard shortcuts* opens a wide window with the shortcuts in three columns, so you no longer need to scroll.",
+  "pub_date": "2026-10-24T12:26:27Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGtJOVEydUVnaXRtUTREYm9DTXEvUVNjMndsNmhWSGRUeWY3c3JmbnVoVUZHSHhDdmRDVDJvNE5aNlpqeVJadFlPMC9EYitSRWR1a2lRTXR0d3RjZUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NTIzCWZpbGU6Rmxvd3N0ZXJfMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42CjBFRTNlb2Rzcm1oM1F1NVlXYTVhUE5FR2R2V1pMeGNDRHF6UjBUQ1lWOElsWG5aMHFJdmZ3M0xibk1RTWJoVW5wNEIyb1N1cWhjMStqcFpmaktWOEFRPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Windows-Setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGtJOVEydUVnaXRtUTREYm9DTXEvUVNjMndsNmhWSGRUeWY3c3JmbnVoVUZHSHhDdmRDVDJvNE5aNlpqeVJadFlPMC9EYitSRWR1a2lRTXR0d3RjZUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NTIzCWZpbGU6Rmxvd3N0ZXJfMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42CjBFRTNlb2Rzcm1oM1F1NVlXYTVhUE5FR2R2V1pMeGNDRHF6UjBUQ1lWOElsWG5aMHFJdmZ3M0xibk1RTWJoVW5wNEIyb1N1cWhjMStqcFpmaktWOEFRPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Windows-Setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHREdmhhblhwblN4U3V1QXZFdjlmNVJuZk9md1pmeW13TlczTW1RN0hjZUhHelVQbzI2S1RkUG5pRDBJSjZCK0l3aE9FbDdJVUpsSjBwV2R1d1ZFb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NTIzCWZpbGU6Rmxvd3N0ZXJfMC4xLjZfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS42CnI2VG1mTkxiSTBZbGd4c1dXSkRpSDZWSnJrMnMzaEdpcmM0dlp4OUJQZXFhRmFZZEVjdVpCVGhja2RLU0VTektOQ0NodS9DelUzYU1mVjh6UkVsOEFBPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Windows.msi"
+    }
+  }
+}

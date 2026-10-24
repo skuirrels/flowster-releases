@@ -1,0 +1,51 @@
+{
+  "version": "0.1.6",
+  "notes": "Drawings open fitted to the window, and an easier-to-read shortcuts list.\n\n- **Drawings open fitted.** A new or opened drawing now fills the window, even after you zoomed into the previous one. Before, it kept the last drawing's zoom and could appear small in a corner.\n- **Keyboard shortcuts at a glance.** *Help › Keyboard shortcuts* opens a wide window with the shortcuts in three columns, so you no longer need to scroll.",
+  "pub_date": "2026-10-24T12:26:27Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGowVm5SYzlIbVF4LzBNK3ErU1lJR1RmWHBvZms0b1YyYUhJRTU4Q3l4QlhiVW1VTFR5VU5rSDhKOUF4VVUxbDFiQ0NWZHNPdm0wYldTSC9IMU9Kd3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgyNjQwCWZpbGU6Rmxvd3N0ZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuMS42ClJYODljK0ZJNEpPZUZFTlBmK0w5aXRncE1RRVRWS0lsVm9FOHdqVlJQSHpCUGxjMnhLTkxSQVJ3RzJGdDdCZFlmd3Npbm5sM1c1enJZTERWZ1prTENBPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-macOS-AppleSilicon.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGowVm5SYzlIbVF4LzBNK3ErU1lJR1RmWHBvZms0b1YyYUhJRTU4Q3l4QlhiVW1VTFR5VU5rSDhKOUF4VVUxbDFiQ0NWZHNPdm0wYldTSC9IMU9Kd3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgyNjQwCWZpbGU6Rmxvd3N0ZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuMS42ClJYODljK0ZJNEpPZUZFTlBmK0w5aXRncE1RRVRWS0lsVm9FOHdqVlJQSHpCUGxjMnhLTkxSQVJ3RzJGdDdCZFlmd3Npbm5sM1c1enJZTERWZ1prTENBPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-macOS-AppleSilicon.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHZXU2M2Ulh1ZUNHK0dMZXRDVmxBWDgxUE94akVvOWVKUTNKd0FOU0h1Zkk4U2dPNnIxN1RUVkY2NlNBS2pFSlNNaXUwWXlNZTIvUVU2T0lTNmR0eEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgyNzEyCWZpbGU6Rmxvd3N0ZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuMS42Cm14dzdiNmdKWkIzWHF5VXd2eXJiQk9Yd2RWZ3VnRU1Ud3ROQXdtdnNxRnFlRE5wMHpPU3hPSVRXOFVnZmVGbDV0Q2V3eXFwQ2JvaU5LTkppVmwxWUR3PT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-macOS-Intel.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHZXU2M2Ulh1ZUNHK0dMZXRDVmxBWDgxUE94akVvOWVKUTNKd0FOU0h1Zkk4U2dPNnIxN1RUVkY2NlNBS2pFSlNNaXUwWXlNZTIvUVU2T0lTNmR0eEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgyNzEyCWZpbGU6Rmxvd3N0ZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuMS42Cm14dzdiNmdKWkIzWHF5VXd2eXJiQk9Yd2RWZ3VnRU1Ud3ROQXdtdnNxRnFlRE5wMHpPU3hPSVRXOFVnZmVGbDV0Q2V3eXFwQ2JvaU5LTkppVmwxWUR3PT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-macOS-Intel.app.tar.gz"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGphM2xGdjlUSHhpdmkxQndVTlJoWGFwaVRVbDRtMkNWaGNwQ2FpN1RBNTJlK1V5RjdyVEN5Q20zaGJPQmhVZzNTeEZnUVNvdjU4NU9hMjhnd1dCWGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NzY3CWZpbGU6Rmxvd3N0ZXItMC4xLjYtMS54ODZfNjQucnBtCXZlcnNpb246MC4xLjYKUGVSNUpsTkJZOXdZSXNJTTdpWmlTQnNyczZBNGFBQ29XRHUyaDZQMGkyNTZybU5WNFRBRGRzNzlJblVJM2czSDVtR1l0MEdUV1k5M2gxS1M4bGtUREE9PQo=",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Linux-x86_64.rpm"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHFMQUtFQlJKU3J0OEtNWThkckNZQWRHZkdyM0RuZnhFNURUNjUwallNcU1WTmM4OFIyS0wrVHREQ1cxMEVuOUlXUzlIMlJGV2FtR2R5Tk1GYzYycVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NzY3CWZpbGU6Rmxvd3N0ZXJfMC4xLjZfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuNgp5eVFBMVAyNUthZFZVU3hWR3Ewb0RqekRNWHp4dE5TSG5LQjl2ajhnZXZXTG9kK3hPbFFhWEdkdlFzZ1Y0L2oxWlE1R0hYc0owUWJTd3JLenFmRWdBZz09Cg==",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Linux-x86_64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHFMQUtFQlJKU3J0OEtNWThkckNZQWRHZkdyM0RuZnhFNURUNjUwallNcU1WTmM4OFIyS0wrVHREQ1cxMEVuOUlXUzlIMlJGV2FtR2R5Tk1GYzYycVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NzY3CWZpbGU6Rmxvd3N0ZXJfMC4xLjZfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuNgp5eVFBMVAyNUthZFZVU3hWR3Ewb0RqekRNWHp4dE5TSG5LQjl2ajhnZXZXTG9kK3hPbFFhWEdkdlFzZ1Y0L2oxWlE1R0hYc0owUWJTd3JLenFmRWdBZz09Cg==",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Linux-x86_64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHBYWmVBL0FqWVlrTkw4UzFoVDdqKzRkWm1MQXBER0xIOTlIQjZzekw0N015aU1rd1FaWGdRMW8zL25WbEUra3JjNVo5YWZTb0Q3NEFlUGszaDFmN3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NzY3CWZpbGU6Rmxvd3N0ZXJfMC4xLjZfYW1kNjQuZGViCXZlcnNpb246MC4xLjYKZy9HUDVJenJjeEQzTDVFRi84cWFlcURybjcyUE1CU3NpdFVoYjZTSWZtNldsMzZLNjc4aHd0M2hGWHFZZ2F5S1lLZnlqS1I1RHBia2dFMVBsT2NnQXc9PQo=",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Linux-amd64.deb"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGtJOVEydUVnaXRtUTREYm9DTXEvUVNjMndsNmhWSGRUeWY3c3JmbnVoVUZHSHhDdmRDVDJvNE5aNlpqeVJadFlPMC9EYitSRWR1a2lRTXR0d3RjZUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NTIzCWZpbGU6Rmxvd3N0ZXJfMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42CjBFRTNlb2Rzcm1oM1F1NVlXYTVhUE5FR2R2V1pMeGNDRHF6UjBUQ1lWOElsWG5aMHFJdmZ3M0xibk1RTWJoVW5wNEIyb1N1cWhjMStqcFpmaktWOEFRPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Windows-Setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGtJOVEydUVnaXRtUTREYm9DTXEvUVNjMndsNmhWSGRUeWY3c3JmbnVoVUZHSHhDdmRDVDJvNE5aNlpqeVJadFlPMC9EYitSRWR1a2lRTXR0d3RjZUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NTIzCWZpbGU6Rmxvd3N0ZXJfMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42CjBFRTNlb2Rzcm1oM1F1NVlXYTVhUE5FR2R2V1pMeGNDRHF6UjBUQ1lWOElsWG5aMHFJdmZ3M0xibk1RTWJoVW5wNEIyb1N1cWhjMStqcFpmaktWOEFRPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Windows-Setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHREdmhhblhwblN4U3V1QXZFdjlmNVJuZk9md1pmeW13TlczTW1RN0hjZUhHelVQbzI2S1RkUG5pRDBJSjZCK0l3aE9FbDdJVUpsSjBwV2R1d1ZFb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NTIzCWZpbGU6Rmxvd3N0ZXJfMC4xLjZfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS42CnI2VG1mTkxiSTBZbGd4c1dXSkRpSDZWSnJrMnMzaEdpcmM0dlp4OUJQZXFhRmFZZEVjdVpCVGhja2RLU0VTektOQ0NodS9DelUzYU1mVjh6UkVsOEFBPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Windows.msi"
+    }
+  }
+}

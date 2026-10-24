@@ -1,0 +1,15 @@
+{
+  "version": "0.1.6",
+  "notes": "Drawings open fitted to the window, and an easier-to-read shortcuts list.\n\n- **Drawings open fitted.** A new or opened drawing now fills the window, even after you zoomed into the previous one. Before, it kept the last drawing's zoom and could appear small in a corner.\n- **Keyboard shortcuts at a glance.** *Help › Keyboard shortcuts* opens a wide window with the shortcuts in three columns, so you no longer need to scroll.",
+  "pub_date": "2026-10-23T19:11:58Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGowVm5SYzlIbVF4LzBNK3ErU1lJR1RmWHBvZms0b1YyYUhJRTU4Q3l4QlhiVW1VTFR5VU5rSDhKOUF4VVUxbDFiQ0NWZHNPdm0wYldTSC9IMU9Kd3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgyNjQwCWZpbGU6Rmxvd3N0ZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuMS42ClJYODljK0ZJNEpPZUZFTlBmK0w5aXRncE1RRVRWS0lsVm9FOHdqVlJQSHpCUGxjMnhLTkxSQVJ3RzJGdDdCZFlmd3Npbm5sM1c1enJZTERWZ1prTENBPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-macOS-AppleSilicon.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGowVm5SYzlIbVF4LzBNK3ErU1lJR1RmWHBvZms0b1YyYUhJRTU4Q3l4QlhiVW1VTFR5VU5rSDhKOUF4VVUxbDFiQ0NWZHNPdm0wYldTSC9IMU9Kd3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgyNjQwCWZpbGU6Rmxvd3N0ZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuMS42ClJYODljK0ZJNEpPZUZFTlBmK0w5aXRncE1RRVRWS0lsVm9FOHdqVlJQSHpCUGxjMnhLTkxSQVJ3RzJGdDdCZFlmd3Npbm5sM1c1enJZTERWZ1prTENBPT0K",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-macOS-AppleSilicon.app.tar.gz"
+    }
+  }
+}

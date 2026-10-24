@@ -1,0 +1,23 @@
+{
+  "version": "0.1.6",
+  "notes": "Drawings open fitted to the window, and an easier-to-read shortcuts list.\n\n- **Drawings open fitted.** A new or opened drawing now fills the window, even after you zoomed into the previous one. Before, it kept the last drawing's zoom and could appear small in a corner.\n- **Keyboard shortcuts at a glance.** *Help › Keyboard shortcuts* opens a wide window with the shortcuts in three columns, so you no longer need to scroll.",
+  "pub_date": "2026-10-24T12:26:27Z",
+  "platforms": {
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUGphM2xGdjlUSHhpdmkxQndVTlJoWGFwaVRVbDRtMkNWaGNwQ2FpN1RBNTJlK1V5RjdyVEN5Q20zaGJPQmhVZzNTeEZnUVNvdjU4NU9hMjhnd1dCWGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NzY3CWZpbGU6Rmxvd3N0ZXItMC4xLjYtMS54ODZfNjQucnBtCXZlcnNpb246MC4xLjYKUGVSNUpsTkJZOXdZSXNJTTdpWmlTQnNyczZBNGFBQ29XRHUyaDZQMGkyNTZybU5WNFRBRGRzNzlJblVJM2czSDVtR1l0MEdUV1k5M2gxS1M4bGtUREE9PQo=",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Linux-x86_64.rpm"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHFMQUtFQlJKU3J0OEtNWThkckNZQWRHZkdyM0RuZnhFNURUNjUwallNcU1WTmM4OFIyS0wrVHREQ1cxMEVuOUlXUzlIMlJGV2FtR2R5Tk1GYzYycVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NzY3CWZpbGU6Rmxvd3N0ZXJfMC4xLjZfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuNgp5eVFBMVAyNUthZFZVU3hWR3Ewb0RqekRNWHp4dE5TSG5LQjl2ajhnZXZXTG9kK3hPbFFhWEdkdlFzZ1Y0L2oxWlE1R0hYc0owUWJTd3JLenFmRWdBZz09Cg==",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Linux-x86_64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHFMQUtFQlJKU3J0OEtNWThkckNZQWRHZkdyM0RuZnhFNURUNjUwallNcU1WTmM4OFIyS0wrVHREQ1cxMEVuOUlXUzlIMlJGV2FtR2R5Tk1GYzYycVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NzY3CWZpbGU6Rmxvd3N0ZXJfMC4xLjZfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuNgp5eVFBMVAyNUthZFZVU3hWR3Ewb0RqekRNWHp4dE5TSG5LQjl2ajhnZXZXTG9kK3hPbFFhWEdkdlFzZ1Y0L2oxWlE1R0hYc0owUWJTd3JLenFmRWdBZz09Cg==",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Linux-x86_64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVG9nYmloeVFPUHBYWmVBL0FqWVlrTkw4UzFoVDdqKzRkWm1MQXBER0xIOTlIQjZzekw0N015aU1rd1FaWGdRMW8zL25WbEUra3JjNVo5YWZTb0Q3NEFlUGszaDFmN3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ0NzY3CWZpbGU6Rmxvd3N0ZXJfMC4xLjZfYW1kNjQuZGViCXZlcnNpb246MC4xLjYKZy9HUDVJenJjeEQzTDVFRi84cWFlcURybjcyUE1CU3NpdFVoYjZTSWZtNldsMzZLNjc4aHd0M2hGWHFZZ2F5S1lLZnlqS1I1RHBia2dFMVBsT2NnQXc9PQo=",
+      "url": "https://skuirrels.github.io/flowster-releases/Flowster-Linux-amd64.deb"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Flowster",
+  "version": "0.1.6",
+  "files": [
+    "Flowster-Windows-Setup.exe",
+    "Flowster-Windows.msi",
+    "Flowster-macOS-AppleSilicon.dmg",
+    "Flowster-macOS-Intel.dmg",
+    "Flowster-Linux-x86_64.AppImage",
+    "Flowster-Linux-amd64.deb",
+    "Flowster-Linux-x86_64.rpm"
+  ]
+}
